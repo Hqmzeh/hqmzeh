@@ -1,0 +1,46 @@
+#title{
+    color:darkgreen;
+    font-size:300%;
+    font-weight:bolder;
+    text-align:center;
+    text-shadow: 6px 2px 10px #ffffff;
+}
+#firstdiv{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+.imgf{
+    width:400px;
+    height:300px;
+    float: right;
+}
+.defi{
+    font-size:225%;
+    font-weight:bolder;
+    color:darkorange;
+}
+.raghi{
+    font-size:175%
+}
+.box{
+    border:5px solid black;
+    display:flex;
+    flex-wrap: wrap;
+}
+.container{
+    width:40%;
+    height:35%;
+}
+.link{
+    list-style-type: none;
+}
+em{
+    font-weight:200;
+    color:red
+}
+body{
+    background-color:#66ccff;
+
+}
+a{
+    font-size:150%;
+}

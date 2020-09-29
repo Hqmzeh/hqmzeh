@@ -1,0 +1,38 @@
+.maintitle{
+    color:Red;
+    font-weight:bolder;
+    font-size:200%;
+    font-style:italic;
+    text-shadow:-8px 10px 3px gray;
+}
+.intro{
+    font-weight: 300;
+    font-style: oblique;
+    color:blue
+}
+.question{
+    color:red
+}
+.defintion{
+    font-weight: 400;
+}
+.credits{
+    font-weight:bolder;
+    color:blue;
+}
+ul > li{
+    font-weight:bolder;
+    color:rgb(207, 126, 32)
+}
+li > p{
+    font-weight:normal;
+    color:crimson;  
+}
+ol > li{
+    font-weight:normal;
+    color:black;
+}
+
+body{
+    font-size:200%;
+}

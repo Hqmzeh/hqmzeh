@@ -1,0 +1,70 @@
+#title{
+    font-size:200%;
+    text-align:center;
+    color:blue;
+    font-weight:bold;
+    font-style:italic;
+}
+#firstimg{
+    border:5px solid black;
+    margin:0.3em 1.5em;
+}
+.text-style{
+    font-size:150%
+}
+.simi-title{
+    font-size:175%;
+    text-align:left;
+    color:red;
+    font-weight:bold;
+    font-style:italic;
+    text-decoration: underline;
+}
+.image{
+    width: 300%;
+    height:200%;
+    margin:0.5em;
+    padding:5px
+}
+.container{
+    border:5px solid black;
+    display:flex;
+    padding:5px;
+}
+.list{
+    color:darkgreen
+}
+.definitions{
+    text-decoration-line: underline;
+}
+.signing{
+    font-size:larger;
+    color:green;
+    text-decoration-line: underline;
+}
+.link{
+    list-style-type: none;
+}
+.credits{
+    font-size:175%;
+    color:yellow;
+    
+
+}
+ul{
+    list-style-type:square;
+}
+
+body{
+    background-color:grey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    text-decoration: underline;
+}
+li{
+    font-size:150%
+}
+a{
+    text-decoration:none
+}
